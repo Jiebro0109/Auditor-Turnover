@@ -1,7 +1,7 @@
 # Auditor-Turnover
-This is a replication of Audit Firm and Office Characteristics variables in Chen(JAR, 2024).
+This is a replication of `Audit Firm and Office Characteristics` variables in Chen(JAR, 2024).
 
-If you can get the original data from Revelio labs and Audit Analytics, you can build the Audit Firm and Office Characteristics variables as follows using my code:
+If you can get the original data from `Revelio labs` and `Audit Analytics`, you can build the `Audit Firm and Office Characteristics` variables as follows using my code:
 
 | Variables  Variables name | Variables definition |
 | :---: | :---: |
