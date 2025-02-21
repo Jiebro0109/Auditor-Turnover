@@ -1,5 +1,5 @@
  # Auditor-Turnover (audit office-city-year panel)
-This is a replication of `Audit Firm and Office Characteristics` variables in Chen(JAR, 2024) and `State level` variables in Carnes et.al.(JAR, 2023)
+This is a replication of building `Audit Firm and Office Characteristics` variables in Chen(JAR, 2024) and `State level` variables in Carnes et.al.(JAR, 2023)
 
 If you can get the original data from `Revelio labs`, `Audit Analytics`, `BLS` and `BEA`, you can build the `Audit Firm and Office Characteristics` and `State` variables as follows using my code step1-4:
 
